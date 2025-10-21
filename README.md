@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="center">Hi there 👋, I'm Minh Triet — Backend Fresher Developer</h3>
+<h3 align="center">Hi there 👋, I'm Minh Triet — Fresher Developer</h3>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Minh Triet from Ho Chi Minh City, Vietnam 🇻🇳<br>🔭 I’m working as a Fresher Developer, mainly focusing on Django REST Framework.<br>📚 I'm currently learning ReactJS, MySQL optimization, and modern full-stack development.<br>⚡ In my free time, I enjoy studying new technologies, hanging out with friends, and exploring new places and food.</p>
+<p align="left">I'm Minh Triet from Ho Chi Minh City, Vietnam 🇻🇳<br>🔭 I’m working as a Fresher Developer, primarily focusing on Django REST Framework, while expanding my skills in Front-End development with ReactJS, MySQL optimization, and modern full-stack practices.</p>
 
 ###
 
